@@ -67,3 +67,28 @@ h6{
     border-radius: 10px;
     padding: 3px;
 }
+td{
+    font-size: 12px;
+}
+th:nth-child(1){
+color: rgb(99, 189, 248);
+}
+th:nth-child(2){
+    color: rgb(245, 99, 99)
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin: 0;
+}
+#table-content{
+    display: none;
+}
+.d-right{
+    color: rgb(78, 209, 85);
+}
+.d-wrong{
+    color: rgb(7, 6, 6);
+}
