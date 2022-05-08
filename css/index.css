@@ -61,7 +61,6 @@ h6{
     color: white;
 }
 #title{
-    font-size: 14px;
     color: white;
     background-image: linear-gradient(to right,rgb(200, 45, 45),darkcyan);
     border-radius: 10px;
@@ -84,7 +83,7 @@ table{
     margin: 0;
 }
 #table-content{
-    display: none;
+    display:block;
 }
 .d-right{
     color: rgb(78, 209, 85);
